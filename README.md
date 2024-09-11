@@ -15,9 +15,6 @@ Langchain: A framework to manage language model applications.
 Streamlit: A web framework for building interactive web apps quickly.
 
 # Installation
-# Clone the repository:
-Copy code
-git clone https://github.com/yourusername/cold-email-generator.git
 
 # Install the required dependencies:
 Copy code
